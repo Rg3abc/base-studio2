@@ -11,5 +11,5 @@ using namespace std;
 
 int main() {
     cout << "its so hot" << endl;
-    return 71;
+    return 70;
 }
