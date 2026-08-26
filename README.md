@@ -3,7 +3,7 @@ Repository for submitting studio work
 
 # Responses:
 Students:
-1. John Doe <john.doe@wustl.edu>
+1. Reece Gray <g.reece@wustl.edu>
 2. 
 3. 
 4. 
